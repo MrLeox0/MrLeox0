@@ -1,14 +1,37 @@
-<h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+# 👋 Hola, soy Fernando Ibarra Eguia
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ing-fernando-ibarra-e/](https://www.linkedin.com/in/ing-fernando-ibarra-e/)
+Desarrollador Full Stack apasionado por crear soluciones tecnológicas eficientes, limpias y escalables.  
+Graduado en Ingeniería en Sistemas Computacionales con experiencia en desarrollo web, móvil y backend.  
+Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyectos de la idea al despliegue exitoso.
 
-- 💬 Ask me about **HTML, CSS, JS, REACT JS**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ing-fernando-ibarra-e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ing-fernando-ibarra-e/" height="30" width="40" /></a>
+## 🚀 Sobre mí
+
+- 🎓 **Formación:** Ingeniería en Sistemas Computacionales - Instituto Tecnológico de Matehuala  
+- 💻 **Especialidad:** Desarrollo Full Stack (Frontend + Backend + Bases de Datos)  
+- 🛠️ **Habilidades:** Proactividad, atención al detalle, trabajo en equipo, aprendizaje rápido, Resolución de problemas 
+- 🌐 **Objetivo:** Objetivo: Convertirme en un referente técnico y líder de equipos multidisciplinarios, impulsando la creación de aplicaciones robustas y eficientes que resuelvan problemas complejos y generen valor tangible para usuarios y clientes a nivel global. 
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones.
+
+---
+
+*Este README está diseñado para mostrar una visión clara y profesional de mi perfil como desarrollador Full Stack.*
