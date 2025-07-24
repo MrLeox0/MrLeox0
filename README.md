@@ -1,4 +1,4 @@
-# 👋 Hola, soy Fernando Ibarra Eguia
+# 👋 Hola, soy Fernando (MR LEO)
 
 Desarrollador Full Stack apasionado por crear soluciones tecnológicas eficientes, limpias y escalables.  
 Graduado en Ingeniería en Sistemas Computacionales con experiencia en desarrollo web, móvil y backend.  
@@ -26,6 +26,9 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networking/networking-original.svg" alt="Networking" width="40" height="40"/>
 </p>
 
 ---
@@ -33,5 +36,3 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 ¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones.
 
 ---
-
-*Este README está diseñado para mostrar una visión clara y profesional de mi perfil como desarrollador Full Stack.*
