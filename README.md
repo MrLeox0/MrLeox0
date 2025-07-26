@@ -37,3 +37,4 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 ¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones.
 
 ---
+
