@@ -19,11 +19,12 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 - - 📝 Fun fact: A veces diseño mejor en papel que en pantalla 😅 
 </td>
 <td align="right">
-  <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/bd3fceef-5ac1-441e-8b99-ba163798c890" />
+  <img width="120" height="120" alt="coffee" src="https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_512.gif" />
    
 </td>
 </tr>
 </table>
+
 ---
 
 ##  💻 Tecnologías
@@ -48,7 +49,7 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 ### 🛠 Herramientas 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src=/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
