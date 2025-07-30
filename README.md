@@ -36,13 +36,6 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-</p>
-
----
-
-### ⚙️ Frameworks / Librerías
-
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
 </p>
@@ -58,6 +51,7 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="30" alt="Notion" />
 </p>
+
 ---
 
 ### 📊 Stats
@@ -76,6 +70,8 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
 ---
 
 ¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones.
