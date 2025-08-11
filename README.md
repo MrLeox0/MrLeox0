@@ -76,6 +76,3 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 ¡Contactame y te invito un cafe ☕! Estoy abierto a nuevas oportunidades y colaboraciones.
 
 ---
-
-
-
