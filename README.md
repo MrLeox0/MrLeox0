@@ -6,7 +6,6 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 
 ---
 
-
 ## 🚀 Sobre mí
 <table>
 <tr>
