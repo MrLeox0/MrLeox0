@@ -5,9 +5,6 @@ Graduado en Ingeniería en Sistemas Computacionales con experiencia en desarroll
 Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyectos de la idea al despliegue exitoso.
 
 ---
-
-
-
 ## 🚀 Sobre mí
 <table>
 <tr>
@@ -79,5 +76,3 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyect
 ¡Contactame y te invito un cafe ☕! Estoy abierto a nuevas oportunidades y colaboraciones.
 
 ---
-
-
