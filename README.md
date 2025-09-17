@@ -4,6 +4,7 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas eficiente
 Graduado en Ingeniería en Sistemas Computacionales con experiencia en desarrollo web, móvil y backend.  
 Me encanta aprender nuevas tecnologías, trabajar en equipo y llevar los proyectos de la idea al despliegue exitoso.
 
+
 ---
 ## 🚀 Sobre mí
 <table>
